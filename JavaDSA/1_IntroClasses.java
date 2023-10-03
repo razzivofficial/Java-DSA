@@ -1,5 +1,4 @@
 package JavaDSA;
-import java.util.*;
 
 class IntroClasses {
     public static void main( String []args ) {
