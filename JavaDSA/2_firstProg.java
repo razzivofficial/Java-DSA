@@ -12,7 +12,7 @@ class FirstProg {
     }
 
     class Student {
-        //        private int id, age;
+        //private int id, age;
         // instance variables (fields in java terminology)
         int[] rno = new int[5];
         String[] name = new String[5];
