@@ -3,12 +3,10 @@ package JavaDSA;
 class FirstProg {
     public static void main(String[] args) {
 
-        int[] nums = new int[5];
-
-        String[] names = new String[10];
-
-        Student[] students = new Student[5];
-        Student     rajiv;
+        // int[] nums = new int[5];
+        // String[] names = new String[10];
+        // Student[] students = new Student[5];
+        // Student     rajiv;
     }
 
     class Student {
